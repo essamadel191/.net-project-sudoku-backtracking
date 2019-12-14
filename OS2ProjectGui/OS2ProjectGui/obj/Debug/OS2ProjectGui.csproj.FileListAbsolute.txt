@@ -1,0 +1,19 @@
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.csprojAssemblyReference.cache
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.Form1.resources
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.Properties.Resources.resources
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.csproj.GenerateResource.cache
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.csproj.CoreCompileInputs.cache
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\bin\Debug\OS2ProjectGui.exe.config
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\bin\Debug\OS2ProjectGui.exe
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\bin\Debug\OS2ProjectGui.pdb
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.exe
+c:\users\dell s\source\repos\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.pdb
+D:\Academic\Level 3 1st Term\OS2\OS2ProjectGui\OS2ProjectGui\bin\Debug\OS2ProjectGui.exe.config
+D:\Academic\Level 3 1st Term\OS2\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.exe
+D:\Academic\Level 3 1st Term\OS2\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.pdb
+D:\Academic\Level 3 1st Term\OS2\OS2ProjectGui\OS2ProjectGui\bin\Debug\OS2ProjectGui.exe
+D:\Academic\Level 3 1st Term\OS2\OS2ProjectGui\OS2ProjectGui\bin\Debug\OS2ProjectGui.pdb
+D:\Academic\Level 3 1st Term\OS2\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.csprojResolveAssemblyReference.cache
+D:\Academic\Level 3 1st Term\OS2\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.Form1.resources
+D:\Academic\Level 3 1st Term\OS2\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.Properties.Resources.resources
+D:\Academic\Level 3 1st Term\OS2\OS2ProjectGui\OS2ProjectGui\obj\Debug\OS2ProjectGui.csproj.GenerateResource.Cache
